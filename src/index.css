@@ -25,6 +25,13 @@ a {
   background-color: transparent;
 }
 
+.main-area {
+  background-image: url("./blob-scene-haikei.svg");
+  background-size: cover; /* or contain, depending on your preference */
+  background-repeat: no-repeat;
+  ;
+}
+
 .search-bar {
   border: none;
   outline: none;

@@ -8,7 +8,7 @@ function App() {
     <>
       <Stack
         direction="column"
-        sx={{ backgroundColor: "#212121", color: "white" }}
+        className="main-area"
         height="100%"
       >
         <Heading />

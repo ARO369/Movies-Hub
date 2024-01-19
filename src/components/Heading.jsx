@@ -13,7 +13,7 @@ const Heading = () => {
         Made with ❤️ by Aaradhya Pathak
       </Box>
       <Box
-        sx={{ backgroundColor: "#212121", color: "white" }}
+        sx={{ color: "white" }}
         align="center"
         p={2}
       >
